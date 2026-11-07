@@ -2,9 +2,17 @@
 [![Build Status](https://github.com/aerokube/images/workflows/build/badge.svg)](https://github.com/aerokube/images/actions?query=workflow%3Abuild)
 [![Release](https://img.shields.io/github/release/aerokube/images.svg)](https://github.com/aerokube/images/releases/latest)
 
-**UNMAINTAINED**. Consider https://aerokube.com/moon/latest as alternative.
+This is a community-maintained continuation of the Aerokube browser images
+project. The upstream project is unmaintained, so this repository aims to keep
+Selenoid-compatible browser images usable with newer browser releases by
+updating their build definitions and related configuration.
 
-This repository contains [Docker](http://docker.com/) build files to be used for [Selenoid](http://github.com/aerokube/selenoid) and [Moon](http://github.com/aerokube/moon) projects. You can find prebuilt images [here](https://hub.docker.com/u/selenoid/).
+This repository contains [Docker](http://docker.com/) build files for
+[Selenoid](http://github.com/aerokube/selenoid) and
+[Moon](http://github.com/aerokube/moon). Prebuilt upstream images are available
+[here](https://hub.docker.com/u/selenoid/); check the published tags and the
+browser-specific build files in this repository for the versions currently
+available. This community effort is independent of Aerokube.
 
 ## Download Statistics
 
